@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049413203138",
+    "project_id": "oonjai-2e384",
+    "storage_bucket": "oonjai-2e384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049413203138:android:57117553f2a5f3a71af75b",
+        "android_client_info": {
+          "package_name": "com.example.oonjai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsL_63I93jwoQmUhUbnCYfBO_m-o9jxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
